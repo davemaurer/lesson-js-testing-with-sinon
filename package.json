@@ -1,0 +1,27 @@
+{
+  "name": "spy-vs-spy",
+  "version": "1.0.0",
+  "description": "An example of testing JavaScript with Sinon.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Steve Kinney",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turingschool-examples/spy-vs-spy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/turingschool-examples/spy-vs-spy/issues"
+  },
+  "homepage": "https://github.com/turingschool-examples/spy-vs-spy#readme"
+}
